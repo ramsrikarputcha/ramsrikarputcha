@@ -13,7 +13,7 @@ When I'm not coding, you can find me exploring the latest tech trends or honing 
 Let's connect and build something awesome together! 
 Find me on:   
 [Linkedin](https://www.linkedin.com/in/rsputcha/)  
-[Leetcode](https://leetcode.com/u/navina_ga/) 
+[Leetcode](https://leetcode.com/u/navina_ga/)  
 [Twitter](https://drive.google.com/file/d/1FPW7vJ3WjJuiqmYWm_J7TpBMhDQxfZVQ/view)
 
 
