@@ -1,7 +1,7 @@
 Hi there 👋 I'm Ram Srikar Putcha.  
 
 A passionate software developer interested in building efficient and scalable web applications.  
-I'm currently pursuing a <b> Master's in Information Systems from Northeastern University </b> and have a strong foundation in <b> Full-stack development </b>. (Check my [Resume](https://drive.google.com/file/d/1s3w4D0X6d0hvHFl_e-q5B_cDYeWHZQ6a/view?usp=sharing) )  
+I'm currently pursuing a <b> Master's in Information Systems from Northeastern University </b> and have a strong foundation in <b> Full-stack development </b>. (Check my [Resume](https://drive.google.com/file/d/1TFAzS7oUwGRzC7LeCCikQAp36peSgWRn/view?usp=sharing) )  
 
 
 I'm proficient in various programming languages and eager to learn all-things-tech 💻.
