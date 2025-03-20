@@ -1,20 +1,38 @@
-Hi there 👋 I'm Ram Srikar Putcha.  
+# Hi there! 👋 I'm Ram Srikar Putcha  
 
-A passionate software developer interested in building efficient and scalable web applications.  
-I'm currently pursuing a <b> Master's in Information Systems from Northeastern University </b> and have a strong foundation in <b> Full-stack development </b>. (Check my [Resume](https://drive.google.com/file/d/1SjHrlPJ3fgNz9wqOlhT-gkCE98B-XXde/view?usp=drive_link) )
+🚀 **Passionate Full-Stack Developer | Tech Enthusiast | Problem Solver**  
+
+I'm an Aspiring Software developer/Data Scientist with a strong foundation in full-stack development, advanced data pre-processing and analysis, and ML Modelling. I am currently pursuing my **Master’s in Information Systems at Northeastern University**. I thrive on building **efficient, scalable web applications** and love exploring cutting-edge tech. 
+
+I have worked on a couple of Internships and have worked on several large-scale projects. Check out my Profile. 
+
+## 🔹 What I Do  
+- 🏗️ **Build Scalable Applications** – Turning ideas into seamless, high-performance solutions.  
+- 💡 **Solve Complex Problems** – From system design to competitive programming, I enjoy the challenge.  
+- 🤝 **Collaborate & Innovate** – Teamwork and innovation drive my projects.  
+
+## ⚡ Skills & Technologies  
+### 🖥️ Programming  
+Java, Python, JavaScript, HTML/CSS, PHP, SQL, React.js, MATLAB, C++, C, R  
+
+### 🛠️ Tools & Frameworks  
+Hadoop, AWS, Flutter, Bootstrap, Agile, Google Analytics, LLMs, Apache Airflow, Docker  
+
+### 🗄️ Databases & Connectivity  
+Pinecone, ChromaDB, MySQL, Snowflake, MongoDB, Firebase, FastAPI, React.js  
+
+### 🎓 Certifications  
+✅ AWS Certified Cloud Practitioner  
+
+## 🎯 Let’s Connect & Build Something Awesome!  
+- 🔗 [LinkedIn](#)  
+- 💻 [Leetcode](#)  
+- 🐦 [Twitter](#)  
+- 📄 [Resume](#)  
+
+💬 Always open to discussions on tech, startups, and everything in between! Let's connect and make something impactful. 🚀  
 
 
-I'm proficient in various programming languages and eager to learn all-things-tech 💻.
-
-I enjoy collaborating with teams to solve complex problems and deliver high-quality solutions. 
-
-When I'm not coding, you can find me exploring the latest tech trends or honing my skills in competitive programming. 
-
-Let's connect and build something awesome together! 
-Find me on:   
-[Linkedin](https://www.linkedin.com/in/rsputcha/)  
-[Leetcode](https://leetcode.com/u/rsputcha/)  
-[Twitter](https://x.com/putcha_srikar)
 
 
 
