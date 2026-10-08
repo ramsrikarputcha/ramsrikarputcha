@@ -29,7 +29,7 @@ Pinecone, ChromaDB, MySQL, Snowflake, MongoDB, Firebase, FastAPI, React.js
 - 🔗 [LinkedIn](#)  
 - 💻 [Leetcode](#)  
 - 🐦 [Twitter](#)  
-- 📄 [Resume](#https://drive.google.com/file/d/1HCWQkr3DPDbD59ld7oJUezSG3fNRgDfn/view?usp=sharing)  
+- 📄 [Resume](https://drive.google.com/file/d/1HCWQkr3DPDbD59ld7oJUezSG3fNRgDfn/view?usp=sharing)  
 
 💬 Always open to discussions on tech, startups, and everything in between! Let's connect and make something impactful. 🚀  
 
