@@ -26,7 +26,7 @@ Pinecone, ChromaDB, MySQL, Snowflake, MongoDB, Firebase, FastAPI, React.js
 ✅ AWS Certified Cloud Practitioner  
 
 ## 🎯 Let’s Connect & Build Something Awesome!  
-- 🔗 [LinkedIn](#)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rsputcha/)  
 - 💻 [Leetcode](#)  
 - 🐦 [Twitter](#)  
 - 📄 [Resume](https://drive.google.com/file/d/1HCWQkr3DPDbD59ld7oJUezSG3fNRgDfn/view?usp=sharing)  
